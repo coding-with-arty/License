@@ -36,7 +36,7 @@ When using or adapting this work, include the following credit (or something equ
 
 > This work is based on original code and content developed by Arthur Daniel Belanger Jr.  
 > Shared under the Belanger Non-Commercial Open License (BNOL v1.0)  
-> [https://github.com/MusicalViking/bread-of-life-license](https://github.com/MusicalViking/bread-of-life-license)
+> [https://github.com/MusicalViking/License](https://github.com/MusicalViking/License/blob/main/LICENSE)
 
 ---
 
