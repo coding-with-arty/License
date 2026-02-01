@@ -1,4 +1,4 @@
-# 👋 coding-with-arty
+# <center>👋 coding-with-arty</center>
 
 <p align="center">
   <img src="images/readme1.JPG" alt="Arty's Photo" width="300"/>
