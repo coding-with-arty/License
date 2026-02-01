@@ -1,101 +1,106 @@
-# 👋 MusicalViking
+# 👋 coding-with-arty
 
-**Lead Developer** @ [Maine Bread of Life](https://mainebreadoflife.org)
-**TA** @ [MIT’s Brave Behind Bars](https://bravebehindbars.org)
-**CS Student** @ University of Maine at Augusta
-**Full-stack developer who locked in, went rogue, and never looked back.**
+<p align="center">
+  <img src="images/readme1.JPG" alt="Arty's Photo" width="300"/>
+</p>
+
+**Lead Developer** @ [Maine Bread of Life](https://mainebreadoflife.org)  
+**TA / Educator** @ [MIT’s Brave Behind Bars](https://bravebehindbars.org) + Code Your Dreams  
+**CS Student** @ University of Maine Augusta  
+**Full-stack developer exploring, building, and teaching with purpose.**
 
 ---
 
-## 🪖 Code Warrior. Veteran. Builder of Second Chances.
+## 🪖 My Journey
 
-I served from 2001–2003(Army 1999-2003).
-Came home broken, lost a friend, nearly lost myself. Then I found purpose in code.
+I served in the Army from 1999–2003. Came home broken, lost a friend, nearly lost myself — then I found purpose in code.  
 
 **No handouts. No shortcuts. One mission: Build tools that matter.**
 
 ---
 
-## 🔥 What I Do Now
+## 🔥 Current Roles
 
-- 💻 Lead Dev @ [Maine Bread of Life](https://mainebreadoflife.org)
-  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me named after me.
-- 🧠 TA @ MIT’s Brave Behind Bars + Code Your Dreams
-  → Teaching HTML, CSS, Python, and Flask inside prison walls
-- 🏗 Redesigning [Augusta Downtown Alliance](https://augustadowntownalliance.org)
-  → From template junk to handcrafted digital presence
+- 💻 **Lead Developer @ Maine Bread of Life**  
+  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for veterans.  
+
+- 🧠 **Teaching Assistant / Educator**  
+  → MIT’s Brave Behind Bars & Code Your Dreams: HTML, CSS, Python, Flask, and web dev inside correctional education programs.  
+
+- 🏗 **Web Development Projects**  
+  → Rebuilding local websites like [Augusta Downtown Alliance](https://augustadowntownalliance.org) from templates to custom, responsive, accessible digital presences.
 
 ---
 
-## 🧠 From the Inside Out
+## 🧠 Learning & Impact
 
-> In 2023, with zero tech background.
-> No laptop experience. No GitHub. No roadmap. Just fire.
+> Started in 2023 with zero tech experience. No laptop skills, no GitHub, no roadmap — just fire.  
 
-- Everything started for me from joining a basic web design course through Brave Behind Bars while in prison.
-- Taught myself full-stack dev in isolation — Flask, JS, Jinja, CLI scripting
-- Earned certifications from **Google**, **UC Davis**, **University of Michigan** and every online course I could find!
-- Went from student to TA — teaching others to build the same way I did
-- Now I build software that runs offline, under pressure, and without excuses
+- Self-taught full-stack development: Flask, JS, Jinja, CLI scripting  
+- Earned certifications from **Google**, **UC Davis**, **University of Michigan**, and multiple online courses  
+- Progressed from student to TA, teaching others to build tools that matter  
+- Build software that runs offline, under pressure, and without excuses  
 
 ---
 
 ## ⚔️ My Ethos
 
-- **Code like your life depends on it.**
-- **No fluff. No gimmicks. Just raw function and impact.**
-- **If it doesn’t run offline, it’s not ready for the real world.**
+- **Code like your life depends on it.**  
+- **No fluff. No gimmicks. Just function and impact.**  
+- **If it doesn’t run offline, it’s not ready for the real world.**  
 - **Accessibility > Aesthetics. Clarity > Cleverness.**
 
 ---
 
 ## 🛠 Dev Arsenal
 
-- **Languages**: Python, JavaScript, HTML5, CSS3, Bash, Batch
-- **Frameworks**: Flask, Jinja, Bootstrap
-- **Tools**: Visual Studio (custom extensions), BrowserSync, PyInstaller
-- **Environments**: Locked down, air-gapped, firewalled — *I get it working anyway*
+- **Languages**: Python, JavaScript, HTML5, CSS3, Bash, Batch  
+- **Frameworks & Libraries**: Flask, Django, Jinja, Bootstrap, Vite  
+- **Tools & Environments**: Visual Studio Code, BrowserSync, PyInstaller, Node.js  
+- **Focus Areas**: Full-stack web dev, front-end design, back-end logic, educational tools  
 
 ---
 
-# 💼 Featured Builds
+# 💼 Featured Projects
 
 ## 🥖 [Maine Bread of Life](https://mainebreadoflife.org)
 
-> **Node.js/Bootstrap-powered nonprofit site. Fully custom. Built for impact.**
+> Node.js & Bootstrap-powered nonprofit site, fully custom and built for impact.
 
-- 🔧 Node.js backend + Bootstrap/React/Vanilla.js Frontend
-- 🦾 JSON-LD structured data for rich SEO
-- 🧭 WCAG-accessible, zero-bloat, mobile-first
+- 🔧 Node.js backend + Bootstrap/React/Vanilla.js frontend  
+- 🦾 JSON-LD structured data for rich SEO  
+- 🧭 WCAG-accessible, mobile-first, zero-bloat
 
 ---
 
 ### 🏙 Augusta Downtown Alliance
 
-> Rebuilding local pride with real code.
+> Rebuilding local pride with custom web development.
 
-- Flask + JS from the ground up
-- ADA compliant, responsive, blazing fast
-- Ditching the WordPress drag-and-drop bloat for something **authentic** and
-  worth the time to look at!
-
----
-
-## 🧑‍🏫 Teaching & Outreach
-
-- **TA @ MIT’s Brave Behind Bars** — Flask & HTML inside prisons
-- **TA @ Code Your Dreams** — mentoring new devs starting at rock bottom...literally.
-
-> *Because real dev skills change lives — even behind bars.*
+- Flask + JS built from scratch  
+- ADA compliant, responsive, blazing fast  
+- Moving away from WordPress drag-and-drop to **authentic, handcrafted web experiences**
 
 ---
 
-# 📫 Authored by me
+## 🧑‍🏫 Teaching & Mentorship
 
-- 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)
-- 📸 Screenshot Credit: ![Bread of Life Homepage](images/maineBreadOfLife.png)
-- [Tour of ART's House - Maine Bread of Life](https://www.youtube.com/watch?v=DNcIMS_XcEY&t=2s)
+- **TA @ MIT’s Brave Behind Bars** — teaching Flask, HTML, and full-stack concepts inside correctional facilities  
+- **TA @ Code Your Dreams** — mentoring new developers starting from scratch  
+
+> *Real dev skills change lives — even behind bars.*
 
 ---
 
-> **“Burn the tutorials. Build the thing. De oppresso liber.”**
+# 📫 Connect & Explore
+
+- 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)  
+- 📸 Screenshot: ![Bread of Life Homepage](images/maineBreadOfLife.png)  
+- 🎥 [Tour of ART's House](https://www.youtube.com/watch?v=DNcIMS_XcEY&t=2s)
+
+---
+
+### <center>“Build. Teach. Learn. Repeat.”</center>
+<p align="center">
+  <img src="images/readme2.JPG" alt="Arty's Photo" width="300"/>
+</p>
