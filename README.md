@@ -1,4 +1,4 @@
-# <center>👋 coding-with-arty</center>
+# 👋 coding-with-arty
 
 <p align="center">
   <img src="images/readme1.JPG" alt="Arty's Photo" width="300"/>
@@ -100,7 +100,7 @@ I served in the Army from 1999–2003. Came home broken, lost a friend, nearly l
 
 ---
 
-### <center>“Build. Teach. Learn. Repeat.”</center>
+> **“Build. Teach. Learn. Repeat.”**
 <p align="center">
   <img src="images/readme2.JPG" alt="Arty's Photo" width="300"/>
 </p>
